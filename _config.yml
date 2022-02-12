@@ -1,0 +1,3 @@
+group :jekyll_plugins do
+  gem 'jekyll-web_monetization'
+end
